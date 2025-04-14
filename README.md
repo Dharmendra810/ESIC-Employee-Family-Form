@@ -59,7 +59,14 @@ To simplify and streamline the process of collecting verified employee and famil
 
 ---
 
+## 🔗 Live Form Link
+
+You can access and fill out the live Google Form here:  
+👉 [Click to Open the Form](https://forms.gle/pKCAd3UghuL6gVueA)
+
 ## 📌 How to Replicate
+
+---
 
 1. Open [Google Forms]
 2. Recreate the form using the section breakdown above
